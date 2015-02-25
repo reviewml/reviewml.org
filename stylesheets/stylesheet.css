@@ -428,7 +428,7 @@ th {
 
 /* LAYOUT STYLES */
 body {
-  font-family: 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 15px;
   font-weight: 400;
   line-height: 1.5;
@@ -450,7 +450,7 @@ a:hover {
 header {
   padding-top: 40px;
   padding-bottom: 40px;
-  font-family: 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x;
   border-bottom: solid 1px #275da1;
 }
@@ -481,6 +481,10 @@ header h2 {
   position: relative;
   width: 940px;
   margin: 0 auto;
+}
+
+.inner .lang a{
+  color: #fff;
 }
 
 #content-wrapper {
@@ -521,7 +525,7 @@ a.button {
   height: 58px;
   padding-top: 22px;
   padding-left: 68px;
-  font-family: 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 23px;
   line-height: 1.2;
   color: #fff;
@@ -614,7 +618,7 @@ form {
 #main-content h1 {
   margin-top: 0;
   margin-bottom: 0;
-  font-family: 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 2.8em;
   font-weight: normal;
   color: #474747;
@@ -631,7 +635,7 @@ form {
 
 #main-content h2 {
   margin-bottom: 8px;
-  font-family: 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 22px;
   font-weight: bold;
   color: #474747;

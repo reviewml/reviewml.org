@@ -24,7 +24,6 @@ Output formats Re:VIEW supports are:
 * InDesign (IDGXML)
 * plain text (TOPBuilder Text Markup Language)
 * Markdown
-* Inao (gihyo.jp WEB+DB PRESS original markup)
 
 ## Project Site
 
@@ -36,4 +35,4 @@ LGPL. See COPYING file.
 
 ## Copyright
 
-Copyright © 2006-2015 Minero Aoki, Kenshi Muto, Masayoshi Takahashi, Masanori Kado.
+Copyright © 2006-2016 Minero Aoki, Kenshi Muto, Masayoshi Takahashi, Masanori Kado.
